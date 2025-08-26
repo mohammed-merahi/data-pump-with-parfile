@@ -4,9 +4,9 @@ This module demonstrates how to perform a clean, modular Oracle Data Pump export
 
 ## 📦 What’s Included
 
-- `parfiles/export_orcl.par`: Parameter file for schema-level export
-- `scripts/run_export.sh`: Bash wrapper to execute the export
-- `logs/orcl_export.log`: Sample log file (generated after running)
+- `export_orcl.par`: Parameter file for schema-level export
+- `run_export.sh`: Bash wrapper to execute the export
+- `orcl_export.log`: Sample log file (generated after running)
 
 ## 🧩 Steps to Use
 
