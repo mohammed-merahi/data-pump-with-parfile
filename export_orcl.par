@@ -1,0 +1,7 @@
+directory=dpump_dir
+dumpfile=orcl_export_%U.dmp
+logfile=orcl_export.log
+schemas=ORCL
+parallel=2
+job_name=orcl_export_job
+
